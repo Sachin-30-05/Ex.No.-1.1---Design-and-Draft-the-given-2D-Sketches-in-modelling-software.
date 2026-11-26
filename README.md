@@ -55,8 +55,6 @@ step 10: Click design, then drawing from design and place the front view ,top vi
 
 <img width="1011" height="717" alt="Screenshot 2026-11-23 190147" src="https://github.com/user-attachments/assets/6b5bb6d8-86eb-4381-8b7a-c761620bd100" />
 
-<img width="1910" height="1020" alt="Screenshot 2026-11-23 185525" src="https://github.com/user-attachments/assets/631b686a-ba6f-4f86-9d27-318b018db07b" />
-
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
